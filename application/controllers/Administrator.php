@@ -265,7 +265,7 @@ class Administrator extends CI_Controller {
         $data = array('position'=>$posisi);
         $where = array('id_menu' => $this->uri->segment(3));
         $this->model_app->update('menu', $data, $where);
-        redirect($this->uri->segment(1).'/menuwebsite1');
+        redirect($this->uri->segment(1).'/menuwebsite');
     }
 
 	function delete_menuwebsite(){
