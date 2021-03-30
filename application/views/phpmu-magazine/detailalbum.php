@@ -2,7 +2,7 @@
 	<div class="single-block">
 		<div class="content-block main left">
 			<div class="block">
-				<div class="block-title" style="background: #bf4b37;">
+				<div class="block-title">
 					<a href="#" class="right"><?php echo ($rows['hits_album']+1)."view"; ?></a>
 					<h2><?php echo "$rows[jdl_album]"; ?></h2>
 				</div>

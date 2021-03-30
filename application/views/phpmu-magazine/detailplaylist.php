@@ -3,7 +3,7 @@
 							<div class="double-block">
 								<div class="content-block main left">
 									<div class="block">
-										<div class="block-title" style="background:purple;">
+										<div class="block-title">
 											<a href="<?php echo base_url(); ?>" class="right">Back to homepage</a>											
 											<h2>Semua Video "<?php echo "$rows[jdl_playlist]"; ?>"</h2>
 										</div>

@@ -12,7 +12,7 @@
 	<div class="single-block">
 		<div class="content-block main left">
 			<div class="block">
-				<div class="block-title" style="background: #bf4b37;">
+				<div class="block-title">
 					<a href="<?php echo base_url(); ?>" class="right">Back to homepage</a>
 					<h2>Pendaftaran untuk Kontributor</h2>
 				</div>

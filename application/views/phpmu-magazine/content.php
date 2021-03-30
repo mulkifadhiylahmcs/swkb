@@ -79,7 +79,7 @@
 			?>
 
 			<div class="block">
-				<div class="block-title" style="background: #dd8229;">
+				<div class="block-title">
 					<h2>Pilihan Redaksi</h2>
 				</div>
 				<div class="block-content">
@@ -287,7 +287,7 @@ foreach ($advetorial->result_array() as $row) {
 
 			<div class="block">
 			<?php $ra = $this->model_utama->view_where('kategori',array('sidebar' => 2))->row_array(); ?>
-				<div class="block-title" style="background: #2182b4;">
+				<div class="block-title">
 					<a href="<?php echo base_url(); ?>kategori/detail/<?php echo "$ra[kategori_seo]"; ?>" class="right">Semua Artikel dari kategori ini </a>
 					<h2>Berita <?php echo "$ra[nama_kategori]"; ?></h2>
 				</div>
@@ -555,7 +555,7 @@ foreach ($advetorial_bawah->result_array() as $row) {
 
 			<div class="block">
 			<?php $ra = $this->model_utama->view_where('kategori',array('sidebar' => 4))->row_array(); ?>
-				<div class="block-title" style="background: #2182b4;">
+				<div class="block-title">
 					<a href="<?php echo base_url(); ?>kategori/detail/<?php echo "$ra[kategori_seo]"; ?>" class="right">Semua Artikel dari kategori ini </a>
 					<h2>Berita <?php echo "$ra[nama_kategori]"; ?></h2>
 				</div>

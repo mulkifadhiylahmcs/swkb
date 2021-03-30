@@ -2,7 +2,7 @@
 	<div class="single-block">
 		<div class="content-block main left">
 			<div class="block">
-				<div class="block-title" style="background: #bf4b37;">
+				<div class="block-title">
 					<a href="index.php" class="right">Back to homepage</a>
 					<h2>Total Hasil Persentasi / Perhitungan Poling</h2>
 				</div>

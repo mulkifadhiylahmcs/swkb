@@ -3,7 +3,7 @@
 							<div class="double-block">
 								<div class="content-block main left">
 									<div class="block">
-										<div class="block-title" style="background:orange;">
+										<div class="block-title">
 											<a href="<?php echo base_url(); ?>" class="right">Back to homepage</a>
 											<h2>Berita Tag "<?php echo "$rows[nama_tag]"; ?>"</h2>
 										</div>

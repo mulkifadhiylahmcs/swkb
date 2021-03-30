@@ -2,7 +2,7 @@
 	<div class="single-block">
 		<div class="content-block main left">
 			<div class="block">
-				<div class="block-title" style="background: #bf4b37;">
+				<div class="block-title">
 					<a href="<?php echo base_url(); ?>" class="right">Back to Homepage</a>
 					<h2>Semua daftar / List File Download</h2>
 				</div>
