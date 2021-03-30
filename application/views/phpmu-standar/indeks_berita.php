@@ -44,7 +44,7 @@
 					?>
 				</h2>
 			</div>
-			<div style='width:98%' class="block-content archive">
+			<div class="block-content archive">
 			<?php
 			
 				if (isset($_POST['filter'])){

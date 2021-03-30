@@ -1194,7 +1194,7 @@ a:focus {
 
 .block-content.archive {
 	display: block;
-	width: 102%;
+	/* width: 100%; */
 }
 
 .block-content.archive:after {

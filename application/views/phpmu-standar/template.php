@@ -49,7 +49,7 @@
 	  fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
 	</script>
-	<style type="text/css">.the-menu a.active{ color:#ea8400 !important; } </style>
+	<style type="text/css">.the-menu a.active{ background-color: #e8e8e826 !important; } </style>
 </head>
 <body>
 <div id='Back-to-top'>

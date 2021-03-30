@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?> 
   <rss version="2.0"><channel> 
-				<title>RSS Swarakalibata | Portal Media Online International</title> 
-				<description>Swarakalibata.com merupakan media online yang mempublikasikan serta memberikan informasi secara profesional, cepat dan akurat.</description>
-				<link>https://swarakalibata.com/</link> 
+				<title>RSS GATRAPrototype | Baca Gatra Baru Bicara</title> 
+				<description>GATRA.com merupakan media online yang mempublikasikan serta memberikan informasi secara profesional, cepat dan akurat.</description>
+				<link>https://gatra.com/</link> 
 				<language>id-id</language><item>
+						                <title>TestBerita mulki</title>
+						                <link>http://localhost/swkb/berita/detail/testberita-mulki</link>
+						                <description>adfkjdfkdsfdsfdsfsdfnsdfsdbfsdfsdfbsfsdfsdbjfsdfsdfbsdfksdfjbsdkjfdsdfbsdkfnsdjfnsdf</description>
+					                </item><item>
 						                <title>Cara Repsol Honda Jaga Kepercayaan Diri Marquez</title>
 						                <link>http://localhost/swkb/berita/detail/cara-repsol-honda-jaga-kepercayaan-diri-marquez</link>
 						                <description>AALST – Direktur Honda Racing Coorporation (HRC), Tetsuhiro Kuwata, mengatakan kalau timnya selalu berusaha merakit motor terbaik untuk Marc Marquez. Hal itu mereka lakukan guna menjaga kepercayaan diri sang pembalap di lintasan.
@@ -143,17 +147,6 @@ Beruntung, Crutchlow bisa bangkit kembali dan melanjutkan balapan hingga garis f
 Rekan setim Takaaki Nakagami itu mengaku insiden ini terjadi karena dirinya salah memilih ban. Ban keras yang digunakan Crutchlow saat race di MotoGP Amerika Serikat ternyata membuat laju kendaraannya tak dapat maksimal. Alhasil, dirinya pun harus terjatuh saat tengah memperebutkan posisi terdepan.
 
 "Saya merasa telah tampil dengan baik, tetapi saya membuat kesalahan, saya terjatuh. Sejujurnya, saya mampu untuk finis kedua atau ketiga dalam perlombaan ini, tetapi saya jatuh di tikungan terakhir,” ujar Crutchlow, sebagaimana dikutip dari Speedweek, Senin (23/4/2018).
-</description>
-					                </item><item>
-						                <title>Dukungan penuh dari Orang tua Bagi Karier Jessica Mila</title>
-						                <link>http://localhost/swkb/berita/detail/dukungan-penuh-dari-orang-tua-bagi-karier-jessica-mila</link>
-						                <description>Kelangsungan karier Jessica Mila tak lepas dari dukungan mendiang sang ayah, Bambang Sutejo, yang meninggal pada 3 Mei 2014, dalam usia 62 tahun. 
-
-"Papa sangat support karierku. Papa, apa pun yang aku lakukan, selalu support. Kuliahku, juga karierku, selalu support," tandasnya. 
-
-Dukungan serupa ditunjukkan ibunda Mila, M. Baker. Merasa tak ada teman di rumah, ia kerap menemani Mila di lokasi syuting. 
-
-"Daripada di rumah, katanya mending Mama menemaniku. Bukan aku yang minta, Mama sendiri yang mau. Aku malah kasihan, Mama capek. Tapi Mama keukeuh, katanya enggak capek. Dia bilang, kalau menungguku, kan bisa tidur di mobil," cerita Mila. 
 </description>
 					                </item></channel>
   	</rss>
