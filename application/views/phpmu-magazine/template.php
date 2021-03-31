@@ -84,10 +84,10 @@
 					if(preg_match("/swf\z/i", $string)) {
 						echo "<embed width='100%' src='".base_url()."asset/foto_iklanatas/$b[gambar]' quality='high' type='application/x-shockwave-flash'>";
 					} else {
-						echo "<a href='$b[url]' target='_blank'><img style='margin-bottom:5px' width='100%' src='".base_url()."asset/foto_iklanatas/$b[gambar]' alt='$b[judul]' /></a>";
+						echo "<a href='$b[url]' target='_blank'><img style='margin-bottom:15px' width='auto' height='170px' src='".base_url()."asset/foto_iklanatas/$b[gambar]' alt='$b[judul]' /></a>";
 					}
 				}
-				if (trim($b['source']) != ''){ echo "$b[source]"; }
+				//if (trim($b['source']) != ''){ echo "$b[source]"; }
 			  }
 			}
 			?>
